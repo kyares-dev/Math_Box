@@ -5,4 +5,7 @@ def add(a, b):
 def subtract(a, b):
   return a-b
   
+def multiply(a, b); #add Multiply
+  return a*b
+
 #Test Test2
