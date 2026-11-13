@@ -8,4 +8,7 @@ def subtract(a, b):
 def multiply(a, b); #add Multiply
   return a*b
 
+def divide(a, b):
+    return a/b
+
 #Test Test2
