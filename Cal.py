@@ -11,4 +11,5 @@ def multiply(a, b); #add Multiply
 def divide_new(a, b):
     return a/b
 
-#Test Test2
+def say_hello():
+    print("hello")
