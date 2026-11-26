@@ -11,4 +11,5 @@ def multiply(a, b); #add Multiply
 def divide_free(a, b):
     return a/b
 
-#Test Test2
+def square(a):
+    return a*a
